@@ -1,1 +1,1 @@
-# test-Sel-Java
+# tests for lessons Selenium-Java
